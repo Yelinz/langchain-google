@@ -579,7 +579,7 @@ class ChatGoogleGenerativeAI(_BaseGoogleGenerativeAI, BaseChatModel):
     Instantiation:
         To use, you must have either:
 
-            1. The ``GOOGLE_API_KEY``` environment variable set with your API key, or
+            1. The ``GOOGLE_API_KEY`` environment variable set with your API key, or
             2. Pass your API key using the google_api_key kwarg to the ChatGoogle
                constructor.
 
